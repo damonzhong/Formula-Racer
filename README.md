@@ -18,4 +18,5 @@ Enter jar folder then click on FormulaRacerDamonZhong.jar to run
 
 # Class Diagram
 
-![UML_FormulaRacer](https://user-images.githubusercontent.com/70302984/134096586-02dbb146-a825-4913-85f3-6cfe81b4fd49.jpg)
+![UML_FormulaRacer](https://user-images.githubusercontent.com/70302984/134096765-100836ed-51c5-4138-84c5-ec075be5ce46.jpg)
+

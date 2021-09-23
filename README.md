@@ -8,8 +8,14 @@ Windows and MacOs
  
 # Run Game 
 Enter jar folder then click on FormulaRacerDamonZhong.jar to run 
- 
- 
+
+# Technologies USed
+This game is setup with the use of Java's JPanel and JFrame
+JFrame is used instansiate the JPanel container
+The gameworld is setup through JPanel implementing Runnable
+
+
+
 #
 ![FR_SS_1](https://user-images.githubusercontent.com/70302984/133866018-99300c26-18f1-4fce-96f4-2f3cf6ae95ba.png)
 

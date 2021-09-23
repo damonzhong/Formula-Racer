@@ -29,13 +29,16 @@ Java
 
 ![FR_init_Panel_Frame](https://user-images.githubusercontent.com/70302984/134597653-284bdfe3-813e-49c4-af4b-f2f49ff3ec69.png)
 
-Game Rules:
-- Whichever kart finishes 3 laps wins
+-ArrayList is used to handle ingame objects instances, karts, gravel, track, pit, background.
+
+![FR_ArrayList](https://user-images.githubusercontent.com/70302984/134598220-dcb97900-a808-4e42-8013-c0513cdcd271.png)
+
+
+# Game Rules:
+Whichever kart finishes 3 laps wins
 
 # Controls
-
 ![FR_Controls](https://user-images.githubusercontent.com/70302984/134597634-41b2d028-6c3e-4de5-99a1-6c57207a012f.png)
-
 
 #
 
